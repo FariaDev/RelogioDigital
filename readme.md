@@ -2,4 +2,5 @@ Mostra quantas horas, minutos e segundos são.
 
 Projeto para estudos. 
 
-![print relógio digital](https://user-images.githubusercontent.com/97044017/191822107-59801b52-47b9-41b1-a45c-e542c619a5eb.png)
+Feito com a ajuda do canal: Larissa Kich
+![print relógio digital](https://user-images.githubusercontent.com/97044017/191823847-6b46394d-9f52-4b1b-a11f-4879bd1698e5.png)
