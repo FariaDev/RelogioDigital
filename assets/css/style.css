@@ -1,16 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Open+Sans:wght@300;400;500&display=swap');
 
 
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
 }
 
 body {
     height: 100vh;
-    background: linear-gradient(120deg, #00C1B2, #DDF5F3);
+    background: linear-gradient(120deg, #264653, #2a9d8f);
     display: flex;
     align-items: center;
     justify-content: center;
